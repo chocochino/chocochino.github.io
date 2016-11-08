@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>of random thoughts and failing codes</title>
+    <description>Because the truth is, the world relies on balance. On chaos balancing order, evil balancing good. For such reason, it is known that to love is to embrace pain.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 08 Nov 2016 22:30:23 +0700</pubDate>
+    <lastBuildDate>Tue, 08 Nov 2016 22:30:23 +0700</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>kalau layout kacau, salahkan @berviantoleo</title>
+        <description>&lt;p&gt;Bercanda. Yang harus disalahkan itu sebenarnya level kepo dan kemampuan saya untuk &lt;em&gt;stalking&lt;/em&gt; balik orang yang &lt;em&gt;stalking&lt;/em&gt; saya.&lt;/p&gt; &lt;p&gt;Jadi ceritanya, saya sedang mengikuti Besut Kode dan harus mengerjakan aktivitas-aktivitas simpel setiap 72 jam sekali agar tidak tereliminasi. Salah satu tugasnya adalah menulis sebuah artikel di situs web saya sendiri.&lt;/p&gt; &lt;p&gt;Sebelumnya, tugas macam ini juga pernah diberikan. Hanya saja, kali itu saya memutuskan untuk bermain-main dengan editor HTML daring dan menggunakan salah satu puisi (atau prosa, atau apalah itu namanya) yang saya sempat publikasikan di LINE Home. Menyalin karya sastra dalam editor HTML itu mudah. Titik &lt;strong&gt;&lt;em&gt;zetsubou&lt;/em&gt;&lt;/strong&gt; justru muncul ketika saya...</description>
+        <pubDate>Mon, 07 Nov 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/kalau-layout-kacau-salahkan-berviantoleo/</link>
+        <guid isPermaLink="true">http://localhost:4000/kalau-layout-kacau-salahkan-berviantoleo/</guid>
+        
+        <category>BesutKode</category>
+        
+        <category>CodeLyfe</category>
+        
+        
+        <category>Curhat</category>
+        
+      </item>
+    
+      <item>
+        <title>Vega, et Altair</title>
+        <description>&lt;p&gt;Satu tahun sekali, aku menatap matamu secara langsung.&lt;/p&gt; &lt;p&gt;Waktu yang aku punya tak pernah cukup, takkan cukup. Bintang di langit dapat bersinar sepanjang malam, namun aku hanya punya waktu dari petang menjelang hingga ia menghilang. Lagi pula, aku harus membagi beberapa jam yang berharga itu untuk orang-orang lain juga.&lt;/p&gt; &lt;p&gt;Setidaknya, di hari itu, aku bisa menatap matamu walau jarakku dan jarakmu tak bisa berdekatan, karena aku yang masih berusaha untuk menenangkan debaran jantung ini. Aku tak peduli hati ini sebenarnya sudah ditawan oleh siapa; malam ini, aku mencintaimu sepenuhnya, hingga akhirnya Vega dan Altair menautkan cahayanya berduaan. Malam ini, aku...</description>
+        <pubDate>Wed, 26 Oct 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Vega-et-Altair/</link>
+        <guid isPermaLink="true">http://localhost:4000/Vega-et-Altair/</guid>
+        
+        <category>PoemishProse</category>
+        
+        <category>LINEhome</category>
+        
+        
+        <category>NulisRandom</category>
+        
+      </item>
+    
+  </channel>
+</rss>

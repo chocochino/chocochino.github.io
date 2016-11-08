@@ -1,2 +1,3 @@
 # chocochino.github.io
-personal website? Yay!
+
+A personal website made by Livia Lohanda to acommodate Besut Kode's prerequisite.
