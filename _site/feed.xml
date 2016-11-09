@@ -5,9 +5,27 @@
     <description>Because the truth is, the world relies on balance. On chaos balancing order, evil balancing good. For such reason, it is known that to love is to embrace pain.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Nov 2016 22:30:23 +0700</pubDate>
-    <lastBuildDate>Tue, 08 Nov 2016 22:30:23 +0700</lastBuildDate>
+    <pubDate>Thu, 10 Nov 2016 00:39:49 +0700</pubDate>
+    <lastBuildDate>Thu, 10 Nov 2016 00:39:49 +0700</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Jekyll for Dummies</title>
+        <description>&lt;p&gt;Ceritanya, waktu kemarin saya mencoba untuk membuat &lt;em&gt;blog post&lt;/em&gt; di situs web ini, saya iseng menggunakan &lt;a href=&quot;http://tinypress.co&quot;&gt;tinypress&lt;/a&gt; seperti yang disarankan oleh &lt;a href=&quot;http://berviantoleo.github.io&quot;&gt;@berviantoleo&lt;/a&gt;. Masalahnya, ketika saya berhasil mengetuk tulisan &lt;em&gt;post now&lt;/em&gt;, yang saya dapat hanya &lt;em&gt;commit&lt;/em&gt; baru.&lt;/p&gt; &lt;p&gt;Tidak ada artikel baru.&lt;/p&gt; &lt;p&gt;Lalu artikelnya mana???&lt;/p&gt; &lt;p&gt;Setelah bertukar pesan langsung dengan orangnya, dia baru berkata seperti ini pada saya: “Maaf ya, aku lupa memberitahukan &lt;em&gt;dependency&lt;/em&gt; apa saja yang diperlukan oleh &lt;a href=&quot;http://tinypress.co&quot;&gt;tinypress&lt;/a&gt;. “&lt;/p&gt; &lt;p&gt;T E R S E R A H&lt;br /&gt; E&lt;br /&gt; R&lt;br /&gt; S&lt;br /&gt; E&lt;br /&gt; R&lt;br /&gt; A&lt;br /&gt; H&lt;/p&gt; &lt;p&gt;Lalu ketika kutanya bagaimana cara menginstal...</description>
+        <pubDate>Wed, 09 Nov 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/IND-jekyll-for-dummies/</link>
+        <guid isPermaLink="true">http://localhost:4000/IND-jekyll-for-dummies/</guid>
+        
+        <category>GithubPages</category>
+        
+        <category>CodeLyfe</category>
+        
+        <category>BesutKode</category>
+        
+        
+        <category>Tutorial</category>
+        
+      </item>
     
       <item>
         <title>kalau layout kacau, salahkan @berviantoleo</title>

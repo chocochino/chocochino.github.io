@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Jekyll for Dummies",
+      "category" : "Tutorial",
+      "tags"     : "GithubPages, CodeLyfe, and BesutKode",
+      "url"      : "/IND-jekyll-for-dummies/",
+      "date"     : "09 Nov 2016"
+    } ,
+  
+    {
       "title"    : "kalau layout kacau, salahkan @berviantoleo",
       "category" : "Curhat",
       "tags"     : "BesutKode and CodeLyfe",
